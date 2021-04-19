@@ -18,6 +18,6 @@ permalink: /Manual/
 
 5. Install the ownCloud. The installation can be done in two ways:
 
-	-[Command Line Guided Installation]()
+	-[Command Line Guided Installation](https://sindhu4512.github.io/CLI/). 
 	
 	-[Installation using the Graphical User Interface Wizard]()
