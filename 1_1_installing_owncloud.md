@@ -14,7 +14,7 @@ permalink: /Manual/
 
 3. Configure the Apache web server. For more information, see [Apache Preparation Guide](https://doc.owncloud.com/server/admin_manual/installation/manual_installation/manual_installation_apache.html). 
 
-4. Download ownCloud. For detailed download procedure, see [Downloading ownCloud]()
+4. Download ownCloud. For detailed download procedure, see [Downloading ownCloud](https://sindhu4512.github.io/task/Downloading/)
 
 5. Install the ownCloud. The installation can be done in two ways:
 
