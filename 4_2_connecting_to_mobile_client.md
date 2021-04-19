@@ -13,5 +13,5 @@ The ownCloud mobile client offers the following advantages:
 * Stronger security with PIN or Two-factor authentication. 
 
 The user can access the ownCloud server files using:
-1. [Android application]()
-2. [iOS application]() 
+1. [Android application](https://sindhu4512.github.io/task/Android/)
+2. [iOS application](https://sindhu4512.github.io/task/iOS/)
