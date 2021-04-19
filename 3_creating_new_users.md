@@ -38,16 +38,16 @@ User information consists of user profile and login details. The administrator c
 
 **Note:** 
 
-- Login names contains letters (a-z, A-Z), numbers (0-9), dashes (-), underscores (_), periods (.), and at signs (@).
+* Login names contains letters (a-z, A-Z), numbers (0-9), dashes (-), underscores (_), periods (.), and at signs (@).
 
-- ownCloud usernames cannot be changed, once set. 
+* ownCloud usernames cannot be changed, once set. 
 	
 5. In the **Password** field, type the password. 
 
 **Note:** This initial password should be shared with the individual user. 
 
 6. From the drop-down list, select and assign a group based on the user membership. For more information on the groups,
- [User Groups](https://github.com/sindhu4512/1/blob/main/pages/3_1_creating_user_groups.md). 
+ [User Groups](https://sindhu4512.github.io/task/Creating/). 
  
 **Note:** This step is optional. 
 
