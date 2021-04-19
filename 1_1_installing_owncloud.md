@@ -20,4 +20,4 @@ permalink: /Manual/
 
 	-[Command Line Guided Installation](https://sindhu4512.github.io/task/CLI/). 
 	
-	-[Installation using the Graphical User Interface Wizard]()
+	-[Installation using the Graphical User Interface Wizard](https://sindhu4512.github.io/task/GUI/)
