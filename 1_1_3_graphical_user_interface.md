@@ -12,11 +12,11 @@ permalink: /GUI/
 
 1. In the address field of Web browser, type the following URL address: 
 
-  		http://<your-owncloud-domain> 
+	http://<your-owncloud-domain> 
 		
 	where <your-owncloud-domain> is the domain name of the admin's ownCloud. 
 	
-	 **Account Setup** window opens up.
+	**Account Setup** window opens up.
 	 
 	  ![1 1](https://doc.owncloud.com/server/10.7/admin_manual/_images/installation/install-wizard-a.png)  
 	 
