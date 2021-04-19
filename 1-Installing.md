@@ -12,4 +12,4 @@ The administrator can install and configure the ownCloud using the following way
 3. [Linux Package Manger](https://doc.owncloud.com/server/admin_manual/installation/linux_packetmanager_install.html)
 4. Quick Installations for [Ubuntu 18.04](https://doc.owncloud.com/server/admin_manual/installation/quick_guides/ubuntu_18_04.html) and [Ubuntu 20.04](https://doc.owncloud.com/server/admin_manual/installation/quick_guides/ubuntu_20_04.html) 
 
-For information on prerequisites and version compatibility, see [Prerequisites](https://github.com/sindhu4512/1/blob/main/pages/1_1_0_prerequisites.md). 
+For information on prerequisites and version compatibility, see [Prerequisites](https://sindhu4512.github.io/task/Prerequisites/)
