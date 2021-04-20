@@ -4,14 +4,15 @@ title:  ""
 permalink: /Client/
 ---
 
-## User Story 4.1: Connecting to ownCloud Desktop Sync Client
+## Connecting to ownCloud Desktop Sync Client
 
-The **ownCloud Desktop Synchronization Client** is used for synchronizing files with the desktop computer.
-The **ownCloud Desktop Synchronization Client** enables the user to:
+The **ownCloud Desktop Synchronization Client** is used for synchronizing files with the desktop computer. It enables the user to:
+
 * Create folders in the home directory and keep the folder contents synced with the ownCloud server.   
 * Synchronize all the latest files.  
 
-The desktop client is available for _Linux_, _macOS_, and _Windows_ operating systems. 
+The Desktop Client is available for _Linux_, _macOS_, and _Windows_ operating systems. 
+
 **Note:** The **ownCloud Desktop Synchronization Client** is compatible with the following verisons of the operating system:
 
 * Windows 7+
@@ -24,7 +25,7 @@ The desktop client is available for _Linux_, _macOS_, and _Windows_ operating sy
 
 ### Procedure to connect to the ownCloud Desktop Sync Client:
 
-#### Prerequisite: 
+Prerequisite: 
 Download  and install the latest version of the ownCloud Desktop Synchronization Client from [ownCloud download page](https://owncloud.org/download/). 
 
 1. Launch the **ownCloud Desktop Client**.  
@@ -32,7 +33,7 @@ Download  and install the latest version of the ownCloud Desktop Synchronization
 
 2. In the **ownCloud Connection Wizard** dialog box, type the **IP address** for your server in the **Server Address** field.
  
-  ![4 1](https://doc.owncloud.com/desktop/_images/client-1.png) 
+  	![4 1](https://doc.owncloud.com/desktop/_images/client-1.png) 
     
 3. Click **Next**.  
    
@@ -41,20 +42,20 @@ Download  and install the latest version of the ownCloud Desktop Synchronization
 
 5. In the **Password** field, type the password. 
 
- ![4 2](https://doc.owncloud.com/desktop/_images/client-2.png) 
+ 	![4 2](https://doc.owncloud.com/desktop/_images/client-2.png) 
         
 
 6.  Click **Next**.
 
 7. Edit the following fields as required: 
 
-	- **Sync everything from server**: Select this option to sync everyhting from server. 
+	* **Sync everything from server**: Select this option to sync everyhting from server. 
 	
-	-**Choose what to sync**: Select this option to sync required files only. 
+	* **Choose what to sync**: Select this option to sync required files only. 
 	
-	-**Local Folder**: Select the local folder location. 
+	* **Local Folder**: Select the local folder location. 
 	
- ![4 3](https://doc.owncloud.com/desktop/_images/client-3.png)  
+	 ![4 3](https://doc.owncloud.com/desktop/_images/client-3.png)  
 	
 8. Click **Connect**.
    The **ownCloud Desktop Client** attempts to connect to the owncloud server. 
