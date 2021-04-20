@@ -47,7 +47,7 @@ Download  and install the latest version of the ownCloud Desktop Synchronization
  	![4 2](https://doc.owncloud.com/desktop/_images/client-2.png)        
 
 
-6.  Click **Next**.
+6. Click **Next**.
 
 7. Edit the following fields as required: 
 
