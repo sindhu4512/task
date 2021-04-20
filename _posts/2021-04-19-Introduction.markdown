@@ -13,6 +13,6 @@ ownCloud includes the ownCloud server which runs on multiple operating systems l
 ## Getting Started
 This quickstart guide provides instructions on how to:
 * [Install and Configure Owncloud server](https://sindhu4512.github.io/task/Installing/)
-* [Enable Users to Connect to Owncloud server Using the Server's IP address and Port 8080]()
+* [Enable Users to Connect to Owncloud server Using the Server's IP address and Port 8080](https://sindhu4512.github.io/task/URL/)
 * [Add User Accounts](https://sindhu4512.github.io/task/Adding/)
 * [Connect to Owncloud server Using Desktop Client](https://sindhu4512.github.io/task/Connecting/)
