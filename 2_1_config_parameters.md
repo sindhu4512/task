@@ -34,7 +34,7 @@ This defines the host server name, for example **localhost**, **hostname**, **ho
 
     
    
-### Default config.php Example- This is how your config.php will look like after installing ownCloud using MySQL database. **config/config.sample.php** lists all the configurable parameters within ownCloud.
+Default config.php Example- This is how your config.php will look like after installing ownCloud using MySQL database. **config/config.sample.php** lists all the configurable parameters within ownCloud.
 
     <?php
     $CONFIG = array (
