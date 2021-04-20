@@ -4,9 +4,8 @@ title:  ""
 permalink: /Manual/
 ---
 
-## User Story 1.1: Manual installion of ownCloud Server
+## Manual installation of ownCloud server
 
-### Procedure to install the ownCloud server manually:
 
 1. Prepare the server. For more information on server requirements, see [General Prerequisites Guide](https://doc.owncloud.com/server/admin_manual/installation/manual_installation/manual_installation_prerequisites.html). 
 
@@ -16,7 +15,7 @@ permalink: /Manual/
 
 4. Download ownCloud. For detailed download procedure, see [Downloading ownCloud](https://sindhu4512.github.io/task/Downloading/)
 
-5. Install the ownCloud. The installation can be done in two ways:
+5. Install the ownCloud. The installation can be done using:
 
 	-[Command Line Guided Installation](https://sindhu4512.github.io/task/CLI/). 
 	
