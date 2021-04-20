@@ -20,6 +20,7 @@ Use this procedure to perform basic setup without any changes or physical instal
 2. Copy the ownCloud directory to its final destination using the following command: 
 
 		$ cp -r owncloud /var/www
+		
 	**Note:** The $/var/www is the root directory location. Replace if your files are stored in different directory. 
 
 3. Finalize the installation:
