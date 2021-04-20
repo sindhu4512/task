@@ -24,7 +24,7 @@ Download the ownCloud Android App from Google Play Store.
  
 5. Click **Next**. 
 
-The **ownCloud Android App** will test the connection. 
+   The **ownCloud Android App** will test the connection. 
 
 6. If the server has _self assigned SSL certificate_, a dialog box opens with a warning message. 
 
