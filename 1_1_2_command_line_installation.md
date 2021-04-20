@@ -4,14 +4,12 @@ title:  ""
 permalink: /CLI/
 ---
 
-## User Story 1.1.2: Command Line Guided Installation 
+## Command Line Guided Installation 
 
 Use this procedure to perform basic setup without any changes or physical installation options.
 
 **Note:** You can use [Script Guided Installation](https://doc.owncloud.com/server/admin_manual/installation/manual_installation/script_guided_install.html) to improvise the setup. 
 
-
-### Procedure to install using command line:
 
 1. Extract the archive contents and run the unpacking command for the tar archive:
 
@@ -22,11 +20,11 @@ Use this procedure to perform basic setup without any changes or physical instal
 2. Copy the ownCloud directory to its final destination using the following command: 
 
 		$ cp -r owncloud /var/www
-		
-**Note:** The $/var/www is the root directory location. Replace if your files are stored in different directory. 
+	**Note:** The $/var/www is the root directory location. Replace if your files are stored in different directory. 
 
-3. Finalize the installation: 
-For example, if the source is unpaked to /var/www/owncloud/
+3. Finalize the installation:
+ 
+	For example, if the source is unpaked to /var/www/owncloud/
 
 		$ cd /var/www/owncloud/
 		$ sudo -u www-data php occ maintenance:install \
