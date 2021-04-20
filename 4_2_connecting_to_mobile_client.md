@@ -4,7 +4,7 @@ title:  ""
 permalink: /Mobile/
 ---
 
-## User Story 4.2: Connecting to ownCloud Server Using Mobile Client
+## Connecting to ownCloud Server Using Mobile Client
 
 The ownCloud mobile client offers the following advantages:
 
