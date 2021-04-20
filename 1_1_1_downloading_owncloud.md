@@ -4,19 +4,18 @@ title:  ""
 permalink: /Downloading/
 ---
 
-## User Story 1.1.1: Downloading owncloud
-
-
-
-### Procedure to download ownCloud:
+## Downloading owncloud
 
 #### Prerequisites: 
-Change the directory to save the file in temporary location. The format of the folder name should be _owncloud-complete-yyyymmdd.archive_type_. 
+Change the directory location to save the file temporarily. The format of the folder name should be _owncloud-complete-yyyymmdd.archive_type_. 
 
 1. Download the required package from [ownCloud Download Page](https://owncloud.com/download-server/).
 	There are two download options available:
+	
 	-.tar.bz2 
+	
 	-.zip
+	
 2. Run the following command:
 
 		$ wget https://download.owncloud.org/community/owncloud-complete-yyyymmdd.tar.bz2
@@ -27,7 +26,7 @@ Change the directory to save the file in temporary location. The format of the f
 								or						
 		$ wget https://download.owncloud.org/community/owncloud-complete-yyyymmdd.tar.bz2.sha256
 
-4. 	Verify the _MD5_ or _SHA256_ sum using the following command: 
+4. Verify the _MD5_ or _SHA256_ sum using the following command: 
 
 		$ sudo md5sum -c owncloud-complete-yyyymmdd.tar.bz2.md5 < owncloud-complete-yyyymmdd.tar.bz2
 								or
