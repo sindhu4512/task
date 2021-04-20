@@ -51,7 +51,7 @@ User information consists of user profile and login details. The administrator c
 6. From the drop-down list, select and assign a group based on the user membership. For more information on the groups,
  [User Groups](https://sindhu4512.github.io/task/Creating/). 
  
- **Note:** This step is optional. 
+	 **Note:** This step is optional. 
 
 7. Click **Create**.
    The new user account is created.   
