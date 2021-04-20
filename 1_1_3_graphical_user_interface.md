@@ -4,15 +4,12 @@ title:  ""
 permalink: /GUI/
 ---
 
-## User Story 1.1.3: Installation using the Graphical User Interface Wizard
-
-
-### Procedure to install using the Graphical User Interface Wizard
+## Installation using the Graphical User Interface Wizard
 
 
 1. In the address field of Web browser, type the following URL address: 
 
-	http://<your-owncloud-domain> 
+	http://your-owncloud-domain 
 		
 	where <your-owncloud-domain> is the domain name of the admin's ownCloud. 
 	
