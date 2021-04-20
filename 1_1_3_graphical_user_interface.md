@@ -11,7 +11,7 @@ permalink: /GUI/
 
 	http://your-owncloud-domain 
 		
-	where <your-owncloud-domain> is the domain name of the admin's ownCloud. 
+	where <your-owncloud-domain> the domain name of the admin's ownCloud. 
 	
 	**Account Setup** window opens up.
 	 
