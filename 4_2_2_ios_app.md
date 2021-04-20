@@ -4,9 +4,9 @@ title:  ""
 permalink: /iOS/
 ---
 
-## User Story 4.2.2: Connecting to ownCloud Server Using iOS app
+## Connecting to ownCloud Server Using iOS app
 
-#### Prerequisite:
+Prerequisite:
 Download the ownCloud iOS App from iTunes.
 
 1. Launch the **ownCloud iOS app**.  
@@ -17,6 +17,7 @@ Download the ownCloud iOS App from iTunes.
 3. In the **Login Name** field, type the username. 
 
 4. In the **Password** field, type the password.
-   The app opens up your **File Pages**. For more information on the functionality of the page, see[Managing Files](https://doc.owncloud.com/ios/#managing-your-files).
+
+   The app opens up your **File Pages**. For more information on the functionality of the page, see [Managing Files](https://doc.owncloud.com/ios/#managing-your-files).
    
    
