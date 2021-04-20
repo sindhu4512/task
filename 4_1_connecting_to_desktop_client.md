@@ -32,16 +32,20 @@ Download  and install the latest version of the ownCloud Desktop Synchronization
    The **ownCloud Connection Wizard** dialog box opens.
 
 2. In the **ownCloud Connection Wizard** dialog box, type the **IP address** for your server in the **Server Address** field.
+
  
   			![4 1](https://doc.owncloud.com/desktop/_images/client-1.png) 
-    
+
+
 3. Click **Next**.  
           
 4. In the **Username** field, type the username. 
 
 5. In the **Password** field, type the password. 
 
+
  			![4 2](https://doc.owncloud.com/desktop/_images/client-2.png)        
+
 
 6.  Click **Next**.
 
@@ -53,7 +57,9 @@ Download  and install the latest version of the ownCloud Desktop Synchronization
 	
 	* **Local Folder**: Select the local folder location. 
 	
+	
 	 		![4 3](https://doc.owncloud.com/desktop/_images/client-3.png)  
+			
 	
 8. Click **Connect**.
    The **ownCloud Desktop Client** attempts to connect to the owncloud server. 
